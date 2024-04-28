@@ -1,0 +1,6 @@
+@jurnal10_1302223044_HostAddress = http://localhost:5117
+
+GET {{jurnal10_1302223044_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
